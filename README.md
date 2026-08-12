@@ -13,11 +13,11 @@ A IA foi desenvolvida no NotebookLM (Gemini Notebook) e tem como objetivo auxili
 
 Das fontes utilizadas no NotebookLM, foram selecionadas 5 como principais para a construção do miniguia, por apresentarem informações diretamente relacionadas ao processo criativo e desenvolvimento de jogos de Toby Fox:
 
-- https://www.nintendo.com/jp/topics/article/22f35d51-a765-11e8-b123-063b7ac45a6d
-- https://www.gamedeveloper.com/design/game-design-deep-dive-i-undertale-i-s-action-based-rpg-battles
-- https://gameinformer.com/2026/05/25/inefficient-and-laborious-the-ongoing-path-to-making-deltarune
-- https://toby.fangamer.com/interviews/chapter2_music/
-- https://www.nintendo.com/jp/topics/article/5d5d8182-14c4-41b3-a774-adc3acdb0f91
+- Entrevista Nintendo — UNDERTALE: https://www.nintendo.com/jp/topics/article/22f35d51-a765-11e8-b123-063b7ac45a6d
+- Game Developer — Undertale's Action-Based RPG Battles: https://www.gamedeveloper.com/design/game-design-deep-dive-i-undertale-i-s-action-based-rpg-battles
+- Game Informer — The Ongoing Path to Making Deltarune: https://gameinformer.com/2026/05/25/inefficient-and-laborious-the-ongoing-path-to-making-deltarune
+- Toby Fox — Deltarune Chapter 2 Rejected Tracks: https://toby.fangamer.com/interviews/chapter2_music/
+- Entrevista Nintendo — DELTARUNE: https://www.nintendo.com/jp/topics/article/5d5d8182-14c4-41b3-a774-adc3acdb0f91
 
 # 3. Engenharia de Prompts
 
